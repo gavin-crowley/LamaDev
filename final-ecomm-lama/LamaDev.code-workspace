@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LamaDev"
+	}
+}
